@@ -1,6 +1,6 @@
 {
   "name": "@devinch/my-package-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "share npm package demo",
   "main": "./src/index.js",
   "type": "module",
