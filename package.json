@@ -1,6 +1,6 @@
 {
   "name": "@devinch/my-package-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "share npm package demo",
   "main": "./src/index.js",
   "type": "module",
@@ -13,5 +13,8 @@
     "demo"
   ],
   "author": "devinch",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
